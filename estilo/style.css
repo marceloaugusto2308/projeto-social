@@ -39,10 +39,11 @@ section#telefone{
 }
 
 iframe#tela{
-   position: relative; 
-   top: 80px;
-   left: 22px;
-   width: 269px;
-   height: 471px;
+    position: relative;
+    top: 65px;
+    left: 18px;
+
+    width: 215px;
+    height: 377px;
 }
 
